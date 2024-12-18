@@ -1,3 +1,3 @@
 # package reference manual
 
-::: python_project_template
+::: py_dummy_uds_server

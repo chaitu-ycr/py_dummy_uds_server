@@ -1,13 +1,13 @@
 [tool.poetry]
-name = "python_project_template"
+name = "py_dummy_uds_server"
 version = "0.0.1"
 description = "this is python project template description"
-authors = ["vaagupally <vaagupally@gmail.com>"]
+authors = ["chaitu-ycr <chaitu.ycr@gmail.com>"]
 license = "LICENSE"
 readme = "README.md"
-homepage = "https://github.com/vaagupally/python_project_template.git"
-repository = "https://github.com/vaagupally/python_project_template.git"
-documentation = "https://vaagupally.github.io/python_project_template/"
+homepage = "https://github.com/chaitu-ycr/py_dummy_uds_server.git"
+repository = "https://github.com/chaitu-ycr/py_dummy_uds_server.git"
+documentation = "https://chaitu-ycr.github.io/py_dummy_uds_server/"
 
 [tool.poetry.dependencies]
 python = "^3.9"

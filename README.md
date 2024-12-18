@@ -1,4 +1,4 @@
-# python_project_template
+# py_dummy_uds_server
 
 My Python 🐍 projects template. MKDocs is used for documentation.
 

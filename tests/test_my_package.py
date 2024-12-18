@@ -1,4 +1,4 @@
-from python_project_template import MyClass
+from py_dummy_uds_server import MyClass
 
 
 def test_importing():

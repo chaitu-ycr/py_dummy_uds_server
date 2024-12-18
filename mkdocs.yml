@@ -1,10 +1,10 @@
-site_name: python_project_template
-site_url: https://vaagupally.github.io/python_project_template/
+site_name: py_dummy_uds_server
+site_url: https://chaitu-ycr.github.io/py_dummy_uds_server/
 site_description: this is python project template description
-site_author: vaagupally
+site_author: chaitu-ycr
 
-repo_name: vaagupally/python_project_template
-repo_url: https://github.com/vaagupally/python_project_template.git
+repo_name: chaitu-ycr/py_dummy_uds_server
+repo_url: https://github.com/chaitu-ycr/py_dummy_uds_server.git
 edit_uri: blob/main/docs/
 
 theme:
@@ -27,7 +27,7 @@ plugins:
             show_docstring_modules: false
           setup_commands:
             - import sys
-            - sys.path.append('./python_project_template')
+            - sys.path.append('./py_dummy_uds_server')
           selection:
             new_path_syntax: true
   - include-markdown:
